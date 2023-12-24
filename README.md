@@ -34,7 +34,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I watch and read programming tutorials, play guitar, and hang out with my fuzzy best friend - my dog, Buddy.
 
+- 👯 I’m currently collaborating on a very interesting and super-cool cybersecurity-related application. Unfortunately, it is proprietary so I can't share any details about it until it is released. Stay tuned...
+
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey)
+
+---  
+
+### :hammer_and_wrench: Languages and Tools :  
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHUb" alt="GitHub" width="40" height="40"/>&nbsp;
+  
 
 <!--
 **alcaseybsu/alcaseybsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
