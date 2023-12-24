@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m studying Software Engineering with a concentration in Cybersecurity and Secure Software Design. I graduate in May 2024.
 
-- :seedling: I'm interested in Quantum Computing and getting my Master's Degree, or beyond.
+- :seedling: I'm interested in Quantum Computing and in getting my Master's Degree, or beyond.
 
 - :zap: In my free time, I watch and read programming tutorials, play guitar, and hang out with my fuzzy best friend - my dog, Buddy.
 
