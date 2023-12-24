@@ -30,11 +30,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m studying Software Engineering, with a concentration in Cybersecurity and Secure Software Design. I graduate in May 2024.
 
-- :seedling: I'm interested in Quatum Computing and getting my Master's Degree, or beyond.
+- :seedling: I'm interested in Quantum Computing and getting my Master's Degree, or beyond.
 
 - :zap: In my free time, I watch and read programming tutorials, play guitar, and hang out with my fuzzy best friend - my dog, Buddy.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey)
 
 <!--
 **alcaseybsu/alcaseybsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
