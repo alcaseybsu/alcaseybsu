@@ -28,7 +28,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the US. Currently, my back-end skills are ahead of my front-end skills, but I enjoy all of it.  
 
-- :telescope: I’m studying Software Engineering, with a concentration in Cybersecurity and Secure Software Design. I graduate in May 2024.
+- :telescope: I’m studying Software Engineering with a concentration in Cybersecurity and Secure Software Design. I graduate in May 2024.
 
 - :seedling: I'm interested in Quantum Computing and getting my Master's Degree, or beyond.
 
