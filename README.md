@@ -10,7 +10,7 @@
   </a> 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=alcaseybsu&style=flat-square&color=purple" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=alcaseybsu&style=flat-square&color=blue" alt=""/>
 
 <!--
 **alcaseybsu/alcaseybsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
