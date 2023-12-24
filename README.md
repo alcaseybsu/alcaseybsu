@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 </div>
 
-### Hi there 👋
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -11,6 +11,8 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=alcaseybsu&style=flat-square&color=blue" alt=""/>
+
+### Hi there 👋
 
 <!--
 **alcaseybsu/alcaseybsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
