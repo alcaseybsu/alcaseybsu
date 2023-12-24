@@ -60,21 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alcaseybsu&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[
-  "background" => "#0000",
-  "border" => "#E4E2E2",
-  "stroke" => "#E4E2E2",
-  "ring" => "#E683D9",
-  "fire" => "#E683D9",
-  "currStreakNum" => "#0480EF",
-  "sideNums" => "#E683D9",
-  "currStreakLabel" => "#0480EF",
-  "sideLabels" => "#E683D9",
-  "dates" => "#75EEB2",
-  "excludeDaysLabel" => "#75EEB2",
-]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alcaseybsu&theme=cobalt)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcaseybsu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
