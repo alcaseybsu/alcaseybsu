@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alcasey" target="_blank">
+  <a href="https://www.linkedin.com/in/alcasey" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
 </div>
@@ -11,6 +11,7 @@
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=alcaseybsu&style=flat-square&color=blue" alt=""/>  
 </div>
+
 
 
 
