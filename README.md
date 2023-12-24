@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alcasey" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=alcaseybsu&style=flat-square&color=blue" alt=""/>  
 </div>
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/GLsE8RIQgj0msv5JsO/giphy.gif" width="100" height="100"/>
 </div>
 
