@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👯 I’m currently collaborating on a very interesting and super-cool cybersecurity-related application. Unfortunately, it is proprietary so I can't share any details about it until it is released. Stay tuned...
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey), email
 
 ---  
 
