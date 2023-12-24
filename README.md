@@ -12,6 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=alcaseybsu&style=flat-square&color=blue" alt=""/>  
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/GLsE8RIQgj0msv5JsO/giphy.gif" width="600" height="300"/>
+</div>
+
+
 
 
 
