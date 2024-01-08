@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :  
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the US. Currently, my back-end skills are ahead of my front-end skills, but I enjoy all of it.  
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the US. I'm currently working on getting as comfortable with front-end skills as I am with back-end.   
 
 - :telescope: I’m studying Software Engineering with a concentration in Cybersecurity and Secure Software Design. I graduate in May 2024.
 
