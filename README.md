@@ -78,7 +78,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/unreal-engine-icon-light.png" title="UnrealEngine" alt="UnrealEngine" width="40" heaight="40"/>&nbsp;
+<img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/UE_Logo_stacked_unreal-engine_white.svg" title="UnrealEngine" alt="UnrealEngine" width="50" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
   
