@@ -84,7 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/tool-logo-sqlmap.svg" title="SQLMap" alt="SQLMap" width="49" height="40"/>&nbsp;  
+<img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/tool-logo-sqlmap.svg" title="SQLMap" alt="SQLMap" width="45" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/UE_Logo_stacked_unreal-engine_white.svg" title="UnrealEngine" alt="UnrealEngine" width="49.6" height="40"/>&nbsp;
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/velociraptor-logo.svg" title="Velociraptor" alt="Velociratptor" width="49.4" height="40"/>&nbsp;
