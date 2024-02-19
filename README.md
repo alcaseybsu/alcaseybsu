@@ -61,6 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/github-mark-white.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/logo-mini.png" title="glm" alt="glm" width="79" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -90,11 +91,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/velociraptor-logo.svg" title="Velociraptor" alt="Velociratptor" width="49.4" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/wireshark-logo.png" title="VSCode" alt="VSCode" width="146" height="40"/>&nbsp;
-</div>
-
-  
-
-  
+</div>    
 ---  
 ### :fire: My Stats :  
 
