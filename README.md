@@ -35,6 +35,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I'm interested in Quantum Computing and in getting my Master's Degree, or beyond.
 
+- 👩‍🎓 I'm currently learning: Unreal Engine and .NET
+  
+- 💻 I'm working on a large project that utilizes Python, JavaScript, and Unreal Engine.
+
 - :zap: In my free time, I watch and read programming tutorials, play guitar, and hang out with my fuzzy best friend--my dog, Buddy.
 
 - 👯 I’m currently collaborating on a very interesting and super-cool cybersecurity-related application. Unfortunately, it is proprietary so I can't share any details about it until it is released. Stay tuned...
