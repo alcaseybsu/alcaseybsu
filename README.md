@@ -35,13 +35,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I'm interested in Quantum Computing and in getting my Master's Degree, or beyond.
 
-- 👩‍🎓 I'm currently learning: Unreal Engine and .NET
+- 👩‍🎓 I'm currently learning: Unreal Engine, .NET, and Data Mining using Python.
   
-- 💻 I'm working on a large project that utilizes Python, JavaScript, and Unreal Engine.
+- 💻 I'm working on a large project that utilizes Unreal Engine, C++, and C#.
 
-- :zap: In my free time, I watch and read programming tutorials, play guitar, and hang out with my fuzzy best friend--my dog, Buddy.
+- :zap: In my free time, I watch and read programming tutorials, play guitar, read about tech things, and hang out with my fuzzy best friend--my dog, Buddy.
 
-- 👯 I’m currently collaborating on a very interesting and super-cool cybersecurity-related application. Unfortunately, it is proprietary so I can't share any details about it until it is released. Stay tuned...
+- 👯 I’m currently collaborating on a very interesting and super-cool cybersecurity-related application. Unfortunately, it is proprietary, so I can't name it until it's released. Stay tuned...
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey), email
 
