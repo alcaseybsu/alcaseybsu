@@ -94,6 +94,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/UE_Logo_stacked_unreal-engine_white.svg" title="UnrealEngine" alt="UnrealEngine" width="49.6" height="40"/>&nbsp;
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/velociraptor-logo.svg" title="Velociraptor" alt="Velociratptor" width="49.4" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/alcaseybsu/alcaseybsu/blob/main/assets/wireshark-logo.png" title="VSCode" alt="VSCode" width="146" height="40"/>&nbsp;
 </div>  
 
