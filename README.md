@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🦾 I feel strongest working with Java, Python, or .NET/C#
 
-- :seedling: I'm interested Data Science, Quantum Computing and in getting my Master's Degree, or beyond.
+- :seedling: I'm interested Data Science, Quantum Computing. I will be earning my Master's Degree next.
 
 - 👩‍🎓 My current/recent learning: Unreal Engine | ASP .NET Core app with mySQL | Data Mining with Python.
   
