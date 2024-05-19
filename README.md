@@ -31,7 +31,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the US. I'm currently working on getting as comfortable with front-end skills as I am with back-end.   
 
-- :telescope: I’m a recent Software Engineering graduate with a concentration in Cybersecurity and Secure Software Design. I also took lots of Data Analytics courses.  I will be earning my Master's Degree next.
+- :telescope: I’m a recent Software Engineering graduate with a concentration in Cybersecurity and Secure Software Design. I also took lots of Data Analytics courses. I will be earning my Master's Degree next.
 
 - 🦾 I feel strongest working with Java, Python, or .NET/C#
 
@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 - 💻 My last project was a large one that utilized Java (then Python), Unreal Engine, C++, and C#.
 
-- :zap: In my free time, I watch and read programming tutorials, play guitar, read about tech things, and hang out with my fuzzy best friend--my dog, Buddy.
+- :zap: In my free time, I like to learn, play guitar, read about tech things, and hang out with my fuzzy best friend--my dog, Buddy.
 
 - 👯 I recently collaborated on a super-cool cybersecurity and aerospace-related application. Unfortunately, it is proprietary, so I can't give any detail about it! I'm very proud of our team's work on it.
 
