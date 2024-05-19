@@ -33,6 +33,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m a recent Software Engineering graduate with a concentration in Cybersecurity and Secure Software Design. I also took lots of Data Analytics courses.
 
+- 🦾 I feel strongest working with Java, Python, or .NET/C#
+
 - :seedling: I'm interested Data Science, Quantum Computing and in getting my Master's Degree, or beyond.
 
 - 👩‍🎓 My current/recent learning: Unreal Engine | ASP .NET Core app with mySQL | Data Mining with Python.
