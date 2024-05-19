@@ -31,17 +31,17 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the US. I'm currently working on getting as comfortable with front-end skills as I am with back-end.   
 
-- :telescope: I’m a recent Software Engineering graduate with a concentration in Cybersecurity and Secure Software Design.
+- :telescope: I’m a recent Software Engineering graduate with a concentration in Cybersecurity and Secure Software Design. I also took lots of Data Analytics courses.
 
-- :seedling: I'm interested in Quantum Computing and in getting my Master's Degree, or beyond.
+- :seedling: I'm interested Data Science, Quantum Computing and in getting my Master's Degree, or beyond.
 
 - 👩‍🎓 I'm currently learning: Unreal Engine, .NET, and Data Mining using Python.
   
-- 💻 I'm working on a large project that utilizes Unreal Engine, C++, and C#.
+- 💻 My last project was a large one that utilized Java (now Python), Unreal Engine, C++, and C#.
 
 - :zap: In my free time, I watch and read programming tutorials, play guitar, read about tech things, and hang out with my fuzzy best friend--my dog, Buddy.
 
-- 👯 I recently collaborated on a super-cool cybersecurity and aerospace-related application. Unfortunately, it is proprietary, so I can't give any detail about it! But I'm very proud of our team's work on it.
+- 👯 I recently collaborated on a super-cool cybersecurity and aerospace-related application. Unfortunately, it is proprietary, so I can't give any detail about it! I'm very proud of our team's work on it.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey), email
 
