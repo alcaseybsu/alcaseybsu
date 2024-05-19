@@ -35,9 +35,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I'm interested Data Science, Quantum Computing and in getting my Master's Degree, or beyond.
 
-- 👩‍🎓 I'm currently learning: Unreal Engine, .NET, and Data Mining using Python.
+- 👩‍🎓 My current/recent learning: Unreal Engine | ASP .NET Core app with mySQL | Data Mining with Python.
   
-- 💻 My last project was a large one that utilized Java (now Python), Unreal Engine, C++, and C#.
+- 💻 My last project was a large one that utilized Java (then Python), Unreal Engine, C++, and C#.
 
 - :zap: In my free time, I watch and read programming tutorials, play guitar, read about tech things, and hang out with my fuzzy best friend--my dog, Buddy.
 
