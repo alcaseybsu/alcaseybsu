@@ -47,6 +47,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alcasey), email
 
+- 📃 My Cirriculum Vitae: [![Cirriculum Vitae](https://alcaseybsu.github.io/)](https://alcaseybsu.github.io/)](https://alcaseybsu.github.io/) 
+
 ---  
 
 ### :hammer_and_wrench: My Languages and Tools:     
